@@ -1,0 +1,5 @@
+cache/
+output/errors.json
+__pycache__/
+*.pyc
+.venv/

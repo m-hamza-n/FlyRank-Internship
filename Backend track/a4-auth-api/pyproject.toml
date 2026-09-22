@@ -1,0 +1,12 @@
+[project]
+name = "a4-auth-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.141.1",
+    "python-dotenv>=1.2.3",
+    "supabase>=2.31.0",
+    "uvicorn[standard]>=0.53.0",
+]
